@@ -1,6 +1,6 @@
 "# InnerVoice" 
 
-Clone the repo: git clone https://github.com/mytreyanjp/InnerVoice.git
+Clone the repo: git clone https://github.com/hiphopsuganth/InnerVoice.git
 
 How to run:
 1. Download the Dataset file in InnerVoice, backend:
